@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\..\LoopBack -I ..\..\..\..\..\Libraries\CMSIS\CM3\CoreSupport -I ..\..\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx -I ..\..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc -I ..\..\..\..\..\Utilities\STM32_EVAL\Common -I ..\..\..\..\..\Utilities\STM32_EVAL -I ..\..\..\..\..\Utilities\STM32_EVAL\STM322xG_EVAL
+-IE:\资料\现代通信课程设计\给学生\project\STM32F2xx_StdPeriph_Lib_1.0.0\Project\通讯模块\CAN总线\Networking\MDK-ARM\RTE
+-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-IC:\Keil_v5\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include
+-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F207xx -DUSE_STM3220F_EVAL -DSTM32F2XX -DUSE_STDPERIPH_DRIVER -DUSE_USART2
+-o .\obj\stm32f2xx_it.o --omf_browse .\obj\stm32f2xx_it.crf --depend .\obj\stm32f2xx_it.d "..\stm32f2xx_it.c"

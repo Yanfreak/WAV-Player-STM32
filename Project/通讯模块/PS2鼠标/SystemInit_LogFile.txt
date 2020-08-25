@@ -1,0 +1,29 @@
+/**
+  ******************************************************************************
+  * @file    Log_File.txt
+  * @author  MCD Application Team
+  * @version V0.0.1
+  * @date    19/3/2011
+  * @time    12:10:19
+  ******************************************************************************
+
+
+######################################
+Total Possibilities  :  
+Desired Frequency    :  120000000 Hz
+Selected Clock source:  PLL : HSE
+HSE Frequency        :  25000000 Hz
+PLL DIV (P)          :  2
+PLL MUL (N)          :  240
+I2S DIV (R)          :  2
+USB Div (Q)          :  5
+######################################
+======================================
+Possibility N?: 1
+--------------------------
+Clock Source : PLL
+PLL Source   : HSI or HSE
+PLL DIV (P)  : 2
+PLL MUL (N)  : 240
+I2S DIV (R)  : 2
+USB Div (Q)  : 5

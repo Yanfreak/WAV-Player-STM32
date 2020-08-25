@@ -1,0 +1,28 @@
+
+T31C4 008:426 SEGGER J-Link V4.90 Log File (0002ms, 8222ms total)
+T31C4 008:426 DLL Compiled: Jul 28 2014 10:35:20 (0002ms, 8222ms total)
+T31C4 008:426 Logging started @ 2017-09-21 14:42 (0002ms, 8222ms total)
+T31C4 008:428 JLINK_SetWarnOutHandler(...) (0001ms, 8223ms total)
+T31C4 008:429 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N: 17935099
+Feature(s): RDI,FlashDL,FlashBP,JFlash  returns O.K. (0266ms, 8489ms total)
+T31C4 008:695 JLINK_SetErrorOutHandler(...) (0000ms, 8489ms total)
+T31C4 008:696 JLINK_ExecCommand("ProjectFile = "D:\实验中心工作\现代通信课程设计\给学生\project\STM32F2xx_StdPeriph_Lib_1.0.0\Project\CPU技术\SysTick\JLinkSettings.ini"", ...)  returns 0x00 (0005ms, 8494ms total)
+T31C4 008:701 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 8494ms total)
+T31C4 008:701 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0002ms, 8496ms total)
+T31C4 008:703 JLINK_SetSpeed(2000) (0001ms, 8497ms total)
+T31C4 008:704 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetDLLVersion()  returns 49000 (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetFirmwareString(...) (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetDLLVersion()  returns 49000 (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetCompileDateTime() (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetFirmwareString(...) (0000ms, 8497ms total)
+T31C4 008:704 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 8497ms total)
+T31C4 008:705 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 8497ms total)
+T31C4 008:705 JLINK_Reset()JLINK_GetId()  returns 0x00000000 (0001ms, 8499ms total)
+T31C4 008:710 JLINK_GetCompileDateTime() (0000ms, 8499ms total)
+T31C4 027:269 JLINK_Close() (0001ms, 8500ms total)
+T31C4 027:269  (0001ms, 8500ms total)
+T31C4 027:269 Closed (0001ms, 8500ms total)

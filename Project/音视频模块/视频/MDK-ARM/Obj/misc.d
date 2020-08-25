@@ -1,0 +1,16 @@
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\misc.h
+.\Obj\misc.o: ..\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\stm32f2xx.h
+.\Obj\misc.o: ..\..\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\misc.o: F:\keil\keil42\ARM\RV31\INC\stdint.h
+.\Obj\misc.o: ..\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\system_stm32f2xx.h
+.\Obj\misc.o: ..\..\สำฦต\stm32f2xx_conf.h 
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_exti.h
+.\Obj\misc.o: ..\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\stm32f2xx.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_fsmc.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_gpio.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rcc.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_spi.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_syscfg.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_usart.h
+.\Obj\misc.o: ..\..\..\..\Libraries\STM32F2xx_StdPeriph_Driver\inc\misc.h
